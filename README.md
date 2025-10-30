@@ -112,7 +112,7 @@ Built with modern web technologies for optimal performance and user experience:
 - **Frontend:** React.js, Tailwind CSS
 - **Real-time Updates:** WebSocket integration
 - **Email Service:** Temp Mail API
-- **Hosting:** Vercel
+- **Hosting:** Pythonanywhere
 - **UI/UX:** Responsive design, accessibility-first approach
 
 ---
@@ -135,7 +135,7 @@ Built with modern web technologies for optimal performance and user experience:
 **Author:** Ajmal UK
 
 - 🐙 GitHub: [@ajmal-uk](https://github.com/ajmal-uk)
-- 💼 Portfolio: [Check Out My Work](https://github.com/ajmal-uk)
+- 💼 Portfolio: [Check Out My Work](https://ajmaluk.netlify.com)
 - 📬 Reach Out: Feel free to open an issue or submit feedback
 
 ---
