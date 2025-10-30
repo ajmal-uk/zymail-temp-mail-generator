@@ -1,7 +1,7 @@
 # 🌐 ZyMail - Disposable Email Generator
 
 <div align="center">
-  <img src="https://ik.imagekit.io/uthakkan/ZyMail/readme.md/logo.png?tr=w-200" alt="ZyMail Logo" />
+  <img src="https://ik.imagekit.io/uthakkan/ZyMail/readme.md/logo.png]" alt="ZyMail Logo" />
 </div>
 
 <div align="center">
