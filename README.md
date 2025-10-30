@@ -1,10 +1,6 @@
 # 🌐 ZyMail - Disposable Email Generator
 
 <div align="center">
-  <img src="https://ik.imagekit.io/uthakkan/ZyMail/readme.md/logo.png]" alt="ZyMail Logo" />
-</div>
-
-<div align="center">
   [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-blue?style=for-the-badge&logo=globe)](https://zymail.vercel.app)
   [![Privacy First](https://img.shields.io/badge/Privacy-First-brightgreen?style=for-the-badge&logo=shield)](https://zymail.vercel.app)
   [![Responsive](https://img.shields.io/badge/Responsive-Design-orange?style=for-the-badge&logo=css3)](https://zymail.vercel.app)
@@ -72,7 +68,7 @@ Experience ZyMail's versatility through these highlights:
 
 <div align="center">
   <a href="https://zymail.vercel.app">
-    <img src="https://ik.imagekit.io/uthakkan/ZyMail/readme.md/launch.png?tr=w-600" alt="Launch ZyMail" />
+    **[👉 Launch ZyMail Live Demo 👈](https://zymail.vercel.app)**
   </a>
   <br><sub>🔥 No setup, no sign-up, 100% free – Dive in now!</sub>
 </div>
@@ -152,7 +148,6 @@ This showcase repo is MIT-licensed for inspiration. Full project licensing? Reac
 ---
 
 <div align="center">
-  <img src="https://ik.imagekit.io/uthakkan/ZyMail/readme.md/footer.png?tr=w-400" alt="ZyMail Footer" />
   <br><br>
   ⭐ **Loved ZyMail? Star the repo!**  
   **[Live Demo](https://zymail.vercel.app)** | **[GitHub](https://github.com/ajmal-uk)** | **[Issues](https://github.com/ajmal-uk/zymail-temp-mail-generator/issues)**  
